@@ -1,6 +1,7 @@
 # Thesis Models
 
-My repository for thesis related work.
+My repository for thesis related work. It will be further updated in due time.
+The thesis can be accessed https://repository.tudelft.nl/islandora/object/uuid:ea341330-08ce-44ac-abf4-65140c49c682?collection=education .
 
 Model.py contains the ABM model.
 In MainModel.ipynb different scenarios can be defined and their outcomes
