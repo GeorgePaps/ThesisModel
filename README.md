@@ -10,7 +10,7 @@ visualized. It contains sections for:
 - Consumer preferences.
 - The various GDPs.
 - Herfindahl–Hirschman index.
-- New old and total firms in teh market. 
+- New old and total firms in tech market. 
 - Market shares of firms.
 - Evolution of environmental performance, user quality and efficiency of the products in the market. 
 
